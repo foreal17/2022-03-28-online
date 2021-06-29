@@ -351,7 +351,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software as described below.
+  you will need access access to NeSI HPCs which will be sorted for you after registration.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
